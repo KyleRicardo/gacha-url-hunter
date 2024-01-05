@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "gacha-url-hunter",
+  "outputfilename": "gacha-url-hunter",
+  "frontend:install": "pnpm i",
+  "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "今夕何夕",
+    "email": "kylericardo666@gmail.com"
+  }
+}
